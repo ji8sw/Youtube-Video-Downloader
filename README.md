@@ -17,17 +17,14 @@
 
 
 
-█▀█ █▀▀ █▀█ █░█ █ █▀█ █▀▀ █▀▄▀█ █▀▀ █▄░█ ▀█▀ █▀
-█▀▄ ██▄ ▀▀█ █▄█ █ █▀▄ ██▄ █░▀░█ ██▄ █░▀█ ░█░ ▄█
+Requirements
 
 1. Open The Search Bar And Type "cmd" And Press Enter
 2. Enter This Command "pip install pytube"
 3. Wait Until Its Installed
 
 
-
-█░█ █▀ ▄▀█ █▀▀ █▀▀
-█▄█ ▄█ █▀█ █▄█ ██▄
+Usage
 
 1. Run The Downloader By Double Clicking The Batch File
 2. Once Opened Enter Your URL E.G: https://www.youtube.com/watch?v=NUGEus7lZd8 (Trained Jumping Spider shakes gives Hi-5)
