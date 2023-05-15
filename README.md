@@ -1,3 +1,4 @@
+MAKE SURE YOU DOWNLOAD THE RELEASE VERSION
 
 ██╗░░░██╗░█████╗░██╗░░░██╗████████╗██╗░░░██╗██████╗░███████╗
 ╚██╗░██╔╝██╔══██╗██║░░░██║╚══██╔══╝██║░░░██║██╔══██╗██╔════╝
@@ -35,3 +36,5 @@
 4. Once Downloaded You Can Input A Name For Your Video File
 5. The Video Will Save To The "downloads" Folder As A .mp4
 6. You Can Watch The Video In Any Video Viewer Like VLC Media Player
+
+MAKE SURE YOU DOWNLOAD THE RELEASE VERSION
